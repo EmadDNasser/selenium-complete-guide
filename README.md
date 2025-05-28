@@ -5,7 +5,3 @@ This is a practical, example-driven guide to mastering Selenium WebDriver with J
 If you're not using Maven, make sure to add all JARs from the `lib/` folder to your project's build path.
 
 ...
-
-**Made by Emad Nasser**  
-📧 emad.naser1@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/emad-nasser-) · [GitHub](https://github.com/EmadDNasser)
